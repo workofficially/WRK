@@ -1,4 +1,3 @@
-// Decoding WRK Token: Detailed Insight
 // SPDX-License-Identifier: MIT
 // License identifier for this Solidity file: MIT License.
 
